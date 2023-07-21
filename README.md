@@ -1,2 +1,2 @@
-# FraudDetection
-This project contains the foundation for implementing fraud detection in a financial system.
+# Fraud Detection
+The provided SQL code sets up a relational database schema that can be used as a foundation for implementing fraud detection in a financial system. While the code itself doesn't contain specific fraud detection logic, it creates the necessary tables and establishes relationships between them, allowing for efficient storage and retrieval of relevant data needed for fraud detection processes.
